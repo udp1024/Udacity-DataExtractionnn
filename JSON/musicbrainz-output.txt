@@ -1,0 +1,804 @@
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3ANirvana&fmt=json
+{
+    "artists": [
+        {
+            "aliases": [
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": "ja",
+                    "name": "\u30cb\u30eb\u30f4\u30a1\u30fc\u30ca",
+                    "primary": true,
+                    "sort-name": "\u30cb\u30eb\u30f4\u30a1\u30fc\u30ca",
+                    "type": "Artist name",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": "en",
+                    "name": "Nirvana",
+                    "primary": true,
+                    "sort-name": "Nirvana",
+                    "type": "Artist name",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Nirvana US",
+                    "primary": null,
+                    "sort-name": "Nirvana US",
+                    "type": null
+                }
+            ],
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "United States",
+                "sort-name": "United States",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+            },
+            "begin-area": {
+                "id": "a640b45c-c173-49b1-8030-973603e895b5",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Aberdeen",
+                "sort-name": "Aberdeen",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78"
+            },
+            "country": "US",
+            "disambiguation": "90s US grunge band",
+            "id": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+            "isnis": [
+                "0000000123486830",
+                "0000000123487390"
+            ],
+            "life-span": {
+                "begin": "1988-01",
+                "end": "1994-04-05",
+                "ended": true
+            },
+            "name": "Nirvana",
+            "score": 100,
+            "sort-name": "Nirvana",
+            "tags": [
+                {
+                    "count": 15,
+                    "name": "rock"
+                },
+                {
+                    "count": 16,
+                    "name": "alternative rock"
+                },
+                {
+                    "count": 2,
+                    "name": "90s"
+                },
+                {
+                    "count": 2,
+                    "name": "punk"
+                },
+                {
+                    "count": 8,
+                    "name": "american"
+                },
+                {
+                    "count": 1,
+                    "name": "punk rock"
+                },
+                {
+                    "count": 1,
+                    "name": "experimental"
+                },
+                {
+                    "count": 5,
+                    "name": "seattle"
+                },
+                {
+                    "count": 41,
+                    "name": "grunge"
+                },
+                {
+                    "count": 0,
+                    "name": "band"
+                },
+                {
+                    "count": 2,
+                    "name": "usa"
+                },
+                {
+                    "count": 1,
+                    "name": "indie rock"
+                },
+                {
+                    "count": 0,
+                    "name": "alternative"
+                },
+                {
+                    "count": 0,
+                    "name": "am\u00e9ricain"
+                },
+                {
+                    "count": 0,
+                    "name": "legendary"
+                },
+                {
+                    "count": 1,
+                    "name": "acoustic rock"
+                },
+                {
+                    "count": 4,
+                    "name": "noise rock"
+                },
+                {
+                    "count": 0,
+                    "name": "90"
+                },
+                {
+                    "count": 0,
+                    "name": "northwest"
+                },
+                {
+                    "count": 0,
+                    "name": "rock and indie"
+                },
+                {
+                    "count": 0,
+                    "name": "united states"
+                },
+                {
+                    "count": 0,
+                    "name": "nirvana"
+                },
+                {
+                    "count": 0,
+                    "name": "kurt cobain"
+                },
+                {
+                    "count": 0,
+                    "name": "2008 universal fire victim"
+                }
+            ],
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+            },
+            "begin-area": {
+                "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "London",
+                "sort-name": "London",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78"
+            },
+            "country": "GB",
+            "disambiguation": "60s band from the UK",
+            "id": "9282c8b4-ca0b-4c6b-b7e3-4f7762dfc4d6",
+            "life-span": {
+                "begin": "1967",
+                "ended": null
+            },
+            "name": "Nirvana",
+            "score": 79,
+            "sort-name": "Nirvana",
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "rock"
+                },
+                {
+                    "count": 1,
+                    "name": "pop"
+                },
+                {
+                    "count": 2,
+                    "name": "progressive rock"
+                },
+                {
+                    "count": 0,
+                    "name": "orchestral"
+                },
+                {
+                    "count": 1,
+                    "name": "british"
+                },
+                {
+                    "count": 1,
+                    "name": "power pop"
+                },
+                {
+                    "count": 1,
+                    "name": "psychedelic rock"
+                },
+                {
+                    "count": 1,
+                    "name": "baroque pop"
+                },
+                {
+                    "count": 1,
+                    "name": "soft rock"
+                },
+                {
+                    "count": 1,
+                    "name": "psychedelic pop"
+                },
+                {
+                    "count": 1,
+                    "name": "pop rock"
+                },
+                {
+                    "count": 1,
+                    "name": "symphonic rock"
+                },
+                {
+                    "count": 1,
+                    "name": "english"
+                }
+            ],
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "United States",
+                "sort-name": "United States",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+            },
+            "country": "US",
+            "id": "c3a64a25-251b-4d03-afba-1471440245b8",
+            "life-span": {
+                "begin": "2009",
+                "ended": null
+            },
+            "name": "Approaching Nirvana",
+            "score": 74,
+            "sort-name": "Approaching Nirvana",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "France",
+                "sort-name": "France",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+            },
+            "country": "FR",
+            "disambiguation": "\u201970s French band from Martigues",
+            "id": "c49d69dc-e008-47cf-b5ff-160fafb1fe1f",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Nirvana",
+            "score": 70,
+            "sort-name": "Nirvana",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Finland",
+                "sort-name": "Finland",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+            },
+            "country": "FI",
+            "disambiguation": "Early 1980's Finnish punk band",
+            "id": "85af0709-95db-4fbc-801a-120e9f4766d0",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Nirvana",
+            "score": 70,
+            "sort-name": "Nirvana",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "punk"
+                },
+                {
+                    "count": 1,
+                    "name": "finland"
+                }
+            ],
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "area": {
+                "id": "885dce63-c211-3033-8cf7-46cb82d440c7",
+                "life-span": {
+                    "begin": "1918",
+                    "end": "2003",
+                    "ended": true
+                },
+                "name": "Yugoslavia",
+                "sort-name": "Yugoslavia",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+            },
+            "country": "YU",
+            "disambiguation": "Croatian prog-rock band active in first half of 70s in former Yugoslavia.",
+            "id": "28a4618c-38e4-4027-ad2c-db66a14a2d85",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Nirvana",
+            "score": 70,
+            "sort-name": "Nirvana",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "disambiguation": "founded in 1987 by a Michael Jackson double/imitator",
+            "id": "3aa878c0-224b-41e5-abd1-63be359d2bca",
+            "life-span": {
+                "begin": "1987",
+                "ended": null
+            },
+            "name": "Nirvana",
+            "score": 70,
+            "sort-name": "Nirvana"
+        },
+        {
+            "aliases": [
+                {
+                    "begin-date": "1988",
+                    "end-date": "1988",
+                    "locale": null,
+                    "name": "Nirvana",
+                    "primary": null,
+                    "sort-name": "Nirvana",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "N2K2",
+                    "primary": null,
+                    "sort-name": "N2K2",
+                    "type": null
+                },
+                {
+                    "begin-date": "1988",
+                    "end-date": "1988",
+                    "locale": null,
+                    "name": "Prophet 2002",
+                    "primary": null,
+                    "sort-name": "Prophet 2002",
+                    "type": null
+                }
+            ],
+            "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+            },
+            "begin-area": {
+                "id": "43bf66f7-e06e-4455-a878-1139b4687fc4",
+                "life-span": {
+                    "begin": "1070",
+                    "ended": true
+                },
+                "name": "G\u00e4vleborg",
+                "sort-name": "G\u00e4vleborg",
+                "type": "Subdivision",
+                "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa"
+            },
+            "country": "SE",
+            "disambiguation": "Swedish death metal band",
+            "id": "f2dfdff9-3862-4be0-bf85-9c833fa3059e",
+            "life-span": {
+                "begin": "1988",
+                "end": "2012",
+                "ended": true
+            },
+            "name": "Nirvana 2002",
+            "score": 64,
+            "sort-name": "Nirvana 2002",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "death metal"
+                }
+            ],
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "id": "329c04ae-3b73-4ca3-996f-75608ab1befb",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Nirvana Singh",
+            "score": 62,
+            "sort-name": "Singh, Nirvana",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        {
+            "id": "89e9ed9d-9b45-42ad-bce2-54ef36053a1a",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Nirvana Seekerz",
+            "score": 62,
+            "sort-name": "Nirvana Seekerz",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "id": "86f9ae24-ba2a-4d55-9275-0b89b85f6e3a",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Weed Nirvana",
+            "score": 62,
+            "sort-name": "Weed Nirvana"
+        },
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "United States",
+                "sort-name": "United States",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+            },
+            "country": "US",
+            "gender": "female",
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "id": "206419e0-3a7a-49ce-8437-4e757767d02b",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Nirvana Savoury",
+            "score": 61,
+            "sort-name": "Savoury, Nirvana",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        {
+            "id": "b305320e-c158-43f4-b5be-4450e2f99a32",
+            "life-span": {
+                "ended": null
+            },
+            "name": "El Nirvana",
+            "score": 61,
+            "sort-name": "Nirvana, El"
+        },
+        {
+            "area": {
+                "id": "d3a68bd0-7419-3f99-a5bd-204d6e057089",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Indonesia",
+                "sort-name": "Indonesia",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+            },
+            "country": "ID",
+            "disambiguation": "experimental",
+            "id": "7c525bf4-abf0-42e3-a1bd-81cbcb55c1f4",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Genta Nirvana",
+            "score": 61,
+            "sort-name": "Genta Nirvana"
+        },
+        {
+            "id": "74ba0d66-e029-4b2e-9bd2-627b0febdc1d",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Cheick Nirvana",
+            "score": 61,
+            "sort-name": "Cheick Nirvana"
+        },
+        {
+            "disambiguation": "Doujin Artist",
+            "id": "322210a0-efe6-484f-9a5a-90a54f3aba22",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Project Nirvana",
+            "score": 61,
+            "sort-name": "Nirvana, Project"
+        },
+        {
+            "id": "3cad39a4-68c9-431e-ad86-80a9a5890a3a",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Nirvana Star",
+            "score": 61,
+            "sort-name": "Nirvana Star",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "downtempo"
+                },
+                {
+                    "count": 1,
+                    "name": "instrumental"
+                },
+                {
+                    "count": 1,
+                    "name": "hip hop"
+                },
+                {
+                    "count": 1,
+                    "name": "lo-fi"
+                },
+                {
+                    "count": 1,
+                    "name": "boom bap"
+                },
+                {
+                    "count": 1,
+                    "name": "chillwave"
+                },
+                {
+                    "count": 1,
+                    "name": "instrumental hip hop"
+                },
+                {
+                    "count": 1,
+                    "name": "lo-fi hip hop"
+                }
+            ]
+        },
+        {
+            "begin-area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+            },
+            "id": "da77e424-c473-481e-a2ae-5d966b2ee0b6",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Nirvana Undercover",
+            "score": 61,
+            "sort-name": "Nirvana Undercover",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "id": "f58febd3-18de-4371-8d95-4a68d4f79456",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Nirvana Kelly",
+            "score": 61,
+            "sort-name": "Kelly, Nirvana",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        {
+            "area": {
+                "id": "07607044-8140-47ba-bb24-7129babe586b",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "West Midlands",
+                "sort-name": "West Midlands",
+                "type": "Subdivision",
+                "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa"
+            },
+            "id": "8f32371e-4bac-4090-ba13-2c1cd1aeab0d",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Nirvana UK",
+            "score": 61,
+            "sort-name": "Nirvana UK",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "disambiguation": "Finnish Nirvana tribute band",
+            "id": "1d7c7a00-a650-47a3-8073-9b33cafbed5c",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Nirvana Tribute",
+            "score": 61,
+            "sort-name": "Nirvana Tribute",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "begin-area": {
+                "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Argentina",
+                "sort-name": "Argentina",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+            },
+            "disambiguation": "Prog Group from Argentina",
+            "id": "c2a67502-675c-4c1a-8d8e-2bde447557fd",
+            "life-span": {
+                "ended": null
+            },
+            "name": "El Nirvana",
+            "score": 61,
+            "sort-name": "Nirvana, El",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "area": {
+                "id": "f934c8da-e40e-4056-8f8c-212e68fdcaec",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Texas",
+                "sort-name": "Texas",
+                "type": "Subdivision",
+                "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa"
+            },
+            "disambiguation": "christian rapper",
+            "gender": "female",
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "id": "69544776-5086-4480-a654-7bf2b5362c16",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Lexly Nirvana",
+            "score": 61,
+            "sort-name": "Nirvana, Lexly",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        {
+            "area": {
+                "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Houston",
+                "sort-name": "Houston",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78"
+            },
+            "begin-area": {
+                "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Houston",
+                "sort-name": "Houston",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78"
+            },
+            "disambiguation": "Nirvana Cover Band",
+            "id": "45eacd92-6857-4faa-9283-023e72a1d4b1",
+            "life-span": {
+                "begin": "2012",
+                "ended": null
+            },
+            "name": "The Nirvana Experience",
+            "score": 55,
+            "sort-name": "The Nirvana Experience",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "id": "e43ad11b-5d29-45ae-90f7-73ac47fb815d",
+            "life-span": {
+                "ended": null
+            },
+            "name": "smells like nirvana",
+            "score": 55,
+            "sort-name": "smells like nirvana"
+        }
+    ],
+    "count": 30,
+    "created": "2023-05-26T19:34:16.603Z",
+    "offset": 0
+}
+
+ARTIST:
+{
+    "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "life-span": {
+            "ended": null
+        },
+        "name": "France",
+        "sort-name": "France",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+    },
+    "country": "FR",
+    "disambiguation": "\u201970s French band from Martigues",
+    "id": "c49d69dc-e008-47cf-b5ff-160fafb1fe1f",
+    "life-span": {
+        "ended": null
+    },
+    "name": "Nirvana",
+    "score": 70,
+    "sort-name": "Nirvana",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+}
+requesting http://musicbrainz.org/ws/2/artist/c49d69dc-e008-47cf-b5ff-160fafb1fe1f?inc=releases&fmt=json
+
+ONE RELEASE:
+{
+  "barcode": null,
+  "country": null,
+  "date": "2016",
+  "disambiguation": "",
+  "id": "b0061b53-0095-4327-88d3-c88b317acfda",
+  "packaging": null,
+  "packaging-id": null,
+  "quality": "normal",
+  "release-events": [
+    {
+      "area": null,
+      "date": "2016"
+    }
+  ],
+  "status": "Official",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "text-representation": {
+    "language": null,
+    "script": null
+  },
+  "title": "Remembering Le Futur"
+}
+
+ALL TITLES:
+Remembering Le Futur

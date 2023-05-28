@@ -1,0 +1,1263 @@
+{
+    "created": "2023-05-28T03:26:29.908Z",
+    "count": 70,
+    "offset": 0,
+    "artists": [
+        {
+            "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "The Beatles",
+            "sort-name": "Beatles, The",
+            "area": {
+                "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+                "type": "Subdivision",
+                "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+                "name": "England",
+                "sort-name": "England",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "c249c30e-88ab-4b2f-a745-96a25bd7afee",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Liverpool",
+                "sort-name": "Liverpool",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "isnis": [
+                "0000000121707484"
+            ],
+            "life-span": {
+                "begin": "1960",
+                "end": "1970-04-10",
+                "ended": true
+            },
+            "aliases": [
+                {
+                    "sort-name": "\u054a\u056b\u0569\u056c\u057d",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u054a\u056b\u0569\u056c\u057d",
+                    "locale": "hy",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u1018\u102e\u1038\u1010\u1032\u101c\u103a\u1021\u1016\u103d\u1032\u1037",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u1018\u102e\u1038\u1010\u1032\u101c\u103a\u1021\u1016\u103d\u1032\u1037",
+                    "locale": "my",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u0926 \u092c\u093f\u091f\u0932\u094d\u0938",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u0926 \u092c\u093f\u091f\u0932\u094d\u0938",
+                    "locale": "ne",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u1c6b\u1c5a \u1c75\u1c64\u1c74\u1c5e\u1c6e\u1c65",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u1c6b\u1c5a \u1c75\u1c64\u1c74\u1c5e\u1c6e\u1c65",
+                    "locale": "sat",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u05d3\u05d9 \u05d1\u05d9\u05d8\u05dc\u05e1",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u05d3\u05d9 \u05d1\u05d9\u05d8\u05dc\u05e1",
+                    "locale": "yi",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u62ab\u5934\u58eb\u4e50\u961f",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u62ab\u5934\u58eb\u4e50\u961f",
+                    "locale": "zh_Hans",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u0411\u0456\u0442\u043b\u0437",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u0411\u0456\u0442\u043b\u0437",
+                    "locale": "uk",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Savage Young Beatles, The",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "The Savage Young Beatles",
+                    "locale": "en",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u0411\u0438\u0442\u043b\u0437",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u0411\u0438\u0442\u043b\u0437",
+                    "locale": "ru",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u62ab\u982d\u56db\u6a02\u968a",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u62ab\u982d\u56db\u6a02\u968a",
+                    "locale": "zh_Hant",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u62ab\u982d\u56db\u6a02\u5718",
+                    "name": "\u62ab\u982d\u56db\u6a02\u5718",
+                    "locale": "zh_Hant",
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u62ab\u5934\u58eb",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u62ab\u5934\u58eb",
+                    "locale": "zh_Hans",
+                    "type": "Artist name",
+                    "primary": true,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u62ab\u982d\u56db",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u62ab\u982d\u56db",
+                    "locale": "zh_Hant",
+                    "type": "Artist name",
+                    "primary": true,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Silver Beatles, The",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "The Silver Beatles",
+                    "locale": "en",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Beatles, I",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "I Beatles",
+                    "locale": "it",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Beatles, Die",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Die Beatles",
+                    "locale": "de",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u10d1\u10d8\u10d7\u10da\u10d6\u10d8",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u10d1\u10d8\u10d7\u10da\u10d6\u10d8",
+                    "locale": "ka",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u0628\u06cc\u0679\u0644\u0632",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u0628\u06cc\u0679\u0644\u0632",
+                    "locale": "ur",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u0e40\u0e14\u0e2d\u0e30\u0e1a\u0e35\u0e40\u0e17\u0e34\u0e25\u0e2a\u0e4c",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u0e40\u0e14\u0e2d\u0e30\u0e1a\u0e35\u0e40\u0e17\u0e34\u0e25\u0e2a\u0e4c",
+                    "locale": "th",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u0c26 \u0c2c\u0c40\u0c1f\u0c3f\u0c32\u0c4d\u0c38\u0c4d",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u0c26 \u0c2c\u0c40\u0c1f\u0c3f\u0c32\u0c4d\u0c38\u0c4d",
+                    "locale": "te",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd\u0bb8\u0bcd",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd\u0bb8\u0bcd",
+                    "locale": "ta",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u0a26 \u0a2c\u0a40\u0a1f\u0a32\u0a1c\u0a3c",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u0a26 \u0a2c\u0a40\u0a1f\u0a32\u0a1c\u0a3c",
+                    "locale": "pa",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u0411\u0438\u0442\u043b\u0441\u0438",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u0411\u0438\u0442\u043b\u0441\u0438",
+                    "locale": "mk",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u0d26\u0d3f \u0d2c\u0d40\u0d31\u0d4d\u0d31\u0d3f\u0d7d\u0d38\u0d4d",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u0d26\u0d3f \u0d2c\u0d40\u0d31\u0d4d\u0d31\u0d3f\u0d7d\u0d38\u0d4d",
+                    "locale": "ml",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u0ca6\u0cbf \u0cac\u0cc0\u0c9f\u0cb2\u0ccd\u0cb8\u0ccd",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u0ca6\u0cbf \u0cac\u0cc0\u0c9f\u0cb2\u0ccd\u0cb8\u0ccd",
+                    "locale": "kn",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "B\u00edtlarnir",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "B\u00edtlarnir",
+                    "locale": "is",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u0926 \u092c\u0940\u091f\u0932\u094d\u0938",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u0926 \u092c\u0940\u091f\u0932\u094d\u0938",
+                    "locale": "hi",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\ub354 \ube44\ud2c0\uc988",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\ub354 \ube44\ud2c0\uc988",
+                    "locale": "ko",
+                    "type": "Artist name",
+                    "primary": true,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u05d4\u05d1\u05d9\u05d8\u05dc\u05e1",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u05d4\u05d1\u05d9\u05d8\u05dc\u05e1",
+                    "locale": "he",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u0aa7 \u0aac\u0abf\u0a9f\u0ab2\u0acd\u0ab8",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u0aa7 \u0aac\u0abf\u0a9f\u0ab2\u0acd\u0ab8",
+                    "locale": "gu",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u0628\u06cc\u062a\u0644\u0632",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u0628\u06cc\u062a\u0644\u0632",
+                    "locale": "fa",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u09a6\u09cd\u09af \u09ac\u09bf\u099f\u09b2\u09cd\u200c\u09b8",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u09a6\u09cd\u09af \u09ac\u09bf\u099f\u09b2\u09cd\u200c\u09b8",
+                    "locale": "bn",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u0627\u0644\u0628\u064a\u062a\u0644\u0632",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u0627\u0644\u0628\u064a\u062a\u0644\u0632",
+                    "locale": "ar",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Beatles, Los",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Los Beatles",
+                    "locale": "es",
+                    "type": "Artist name",
+                    "primary": true,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u12d8 \u1262\u1270\u120d\u1235",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u12d8 \u1262\u1270\u120d\u1235",
+                    "locale": "am",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "\u30d3\u30fc\u30c8\u30eb\u30ba\uff08\u30b6\uff09",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "\u30b6\u30fb\u30d3\u30fc\u30c8\u30eb\u30ba",
+                    "locale": "ja",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Beatles, Les",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Les Beatles",
+                    "locale": "fr",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "B",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "B",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "fab four",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "fab four",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Beatles, The",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "The Beatles",
+                    "locale": "en",
+                    "type": "Artist name",
+                    "primary": true,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Beetles",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Beetles",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Be",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Be",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Beat",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Beat",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Beatles",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Beatles",
+                    "locale": "en",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 31,
+                    "name": "rock"
+                },
+                {
+                    "count": 17,
+                    "name": "pop"
+                },
+                {
+                    "count": -2,
+                    "name": "progressive rock"
+                },
+                {
+                    "count": -2,
+                    "name": "80s"
+                },
+                {
+                    "count": -4,
+                    "name": "heavy metal"
+                },
+                {
+                    "count": -2,
+                    "name": "pop-rock"
+                },
+                {
+                    "count": -3,
+                    "name": "orchestral"
+                },
+                {
+                    "count": -2,
+                    "name": "experimental"
+                },
+                {
+                    "count": 15,
+                    "name": "british"
+                },
+                {
+                    "count": 0,
+                    "name": "uk"
+                },
+                {
+                    "count": 4,
+                    "name": "60s"
+                },
+                {
+                    "count": -2,
+                    "name": "hard rock"
+                },
+                {
+                    "count": -3,
+                    "name": "indie rock"
+                },
+                {
+                    "count": 0,
+                    "name": "folk rock"
+                },
+                {
+                    "count": 4,
+                    "name": "psychedelic rock"
+                },
+                {
+                    "count": -2,
+                    "name": "psychedelic"
+                },
+                {
+                    "count": -2,
+                    "name": "blues rock"
+                },
+                {
+                    "count": 0,
+                    "name": "britpop"
+                },
+                {
+                    "count": -2,
+                    "name": "art rock"
+                },
+                {
+                    "count": -1,
+                    "name": "folk-rock"
+                },
+                {
+                    "count": 0,
+                    "name": "baroque pop"
+                },
+                {
+                    "count": 1,
+                    "name": "classic rock"
+                },
+                {
+                    "count": 8,
+                    "name": "psychedelic pop"
+                },
+                {
+                    "count": 1,
+                    "name": "experimental rock"
+                },
+                {
+                    "count": 12,
+                    "name": "pop rock"
+                },
+                {
+                    "count": -1,
+                    "name": "europop"
+                },
+                {
+                    "count": 5,
+                    "name": "british invasion"
+                },
+                {
+                    "count": 0,
+                    "name": "rock and roll"
+                },
+                {
+                    "count": -2,
+                    "name": "rock roll"
+                },
+                {
+                    "count": 0,
+                    "name": "english"
+                },
+                {
+                    "count": -2,
+                    "name": "sunshine pop"
+                },
+                {
+                    "count": -2,
+                    "name": "folk pop"
+                },
+                {
+                    "count": 0,
+                    "name": "liverpool"
+                },
+                {
+                    "count": -2,
+                    "name": "parlophone"
+                },
+                {
+                    "count": 0,
+                    "name": "united kingdom"
+                },
+                {
+                    "count": -3,
+                    "name": "hair metal"
+                },
+                {
+                    "count": 2,
+                    "name": "europe"
+                },
+                {
+                    "count": 0,
+                    "name": "1"
+                },
+                {
+                    "count": 0,
+                    "name": "bbc"
+                },
+                {
+                    "count": 0,
+                    "name": "classic pop and rock"
+                },
+                {
+                    "count": 0,
+                    "name": "singer songwriter"
+                },
+                {
+                    "count": -1,
+                    "name": "classical pop"
+                },
+                {
+                    "count": 0,
+                    "name": "instrumental pop"
+                },
+                {
+                    "count": 4,
+                    "name": "merseybeat"
+                },
+                {
+                    "count": 0,
+                    "name": "adult alternative pop rock"
+                },
+                {
+                    "count": -2,
+                    "name": "tribute albums"
+                },
+                {
+                    "count": 0,
+                    "name": "british psychedelia"
+                },
+                {
+                    "count": 0,
+                    "name": "orchestral pop"
+                },
+                {
+                    "count": -2,
+                    "name": "pop-metal"
+                },
+                {
+                    "count": 0,
+                    "name": "male vocalists"
+                },
+                {
+                    "count": -2,
+                    "name": "the-beatles"
+                },
+                {
+                    "count": 0,
+                    "name": "boys band"
+                },
+                {
+                    "count": 1,
+                    "name": "abbey road"
+                },
+                {
+                    "count": 0,
+                    "name": "rock & roll"
+                },
+                {
+                    "count": 0,
+                    "name": "pop/rock"
+                },
+                {
+                    "count": -2,
+                    "name": "rhythm & blues"
+                },
+                {
+                    "count": -1,
+                    "name": "overrated"
+                },
+                {
+                    "count": 1,
+                    "name": "psychedelic/garage"
+                },
+                {
+                    "count": -2,
+                    "name": "art pop"
+                },
+                {
+                    "count": 0,
+                    "name": "one beatles"
+                },
+                {
+                    "count": -2,
+                    "name": "a filk artist"
+                },
+                {
+                    "count": 0,
+                    "name": "british rhythm & blues"
+                },
+                {
+                    "count": -2,
+                    "name": "beat music"
+                },
+                {
+                    "count": 0,
+                    "name": "get back"
+                },
+                {
+                    "count": 1,
+                    "name": "favoritos"
+                }
+            ]
+        },
+        {
+            "id": "1019b551-eba7-4e7c-bc7d-eb427ef54df2",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 65,
+            "name": "Blues Beatles",
+            "sort-name": "Blues Beatles",
+            "country": "BR",
+            "area": {
+                "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Brazil",
+                "sort-name": "Brazil",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "blues rock, Brazil",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "5e685f9e-83bb-423c-acfa-487e34f15ffd",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 64,
+            "name": "The Tape-beatles",
+            "sort-name": "Tape-beatles, The",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "3fc3b364-665e-4875-a9ff-3699cd716152",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Iowa City",
+                "sort-name": "Iowa City",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "US multimedia group",
+            "life-span": {
+                "begin": "1986-12",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Tape-Beatles",
+                    "name": "Tape-Beatles",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ]
+        },
+        {
+            "id": "5a45e8c5-e8e5-4f05-9429-6dd00f0ab50b",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 64,
+            "name": "Instrumental Beatles",
+            "sort-name": "Instrumental Beatles",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "e897e5fc-2707-49c8-8605-be82b4664dc5",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 64,
+            "name": "Sex Beatles",
+            "sort-name": "Sex Beatles",
+            "disambiguation": "Brazilian rock band",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "74e70126-def2-4b76-a001-ed3b96080e24",
+            "score": 63,
+            "name": "Powdered Beatles",
+            "sort-name": "Powdered Beatles",
+            "disambiguation": "Richard Ramirez",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "bc569a61-dd62-4758-86c6-e99dcb1fdda6",
+            "score": 63,
+            "name": "Tokyo Beatles",
+            "sort-name": "Tokyo Beatles",
+            "country": "JP",
+            "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "8dc97297-ac95-4d33-82bc-e07fab26fb5f",
+                "type": "Subdivision",
+                "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+                "name": "Tokyo",
+                "sort-name": "Tokyo",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Japanese",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "daf68253-e023-4128-a92a-82896093c67f",
+            "score": 63,
+            "name": "The Beatles",
+            "sort-name": "Beatles, The",
+            "disambiguation": "punk/lofi; published on Wheelchair Full of Old Men",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "3133aeb8-9982-4e11-a8ff-5477996a80bf",
+            "score": 63,
+            "name": "Beatles Chillout",
+            "sort-name": "Beatles Chillout",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "5d25dbfb-7558-45dc-83dd-6d1176090974",
+            "score": 63,
+            "name": "Daft Beatles",
+            "sort-name": "Daft Beatles",
+            "disambiguation": "Mash-up Artist",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "bdf09e36-2b82-44ef-8402-35c1250d81e0",
+            "score": 63,
+            "name": "Zyklon Beatles",
+            "sort-name": "Beatles, Zyklon",
+            "disambiguation": "Sunny Suits",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "ad60d963-44f1-4b41-b785-8284edcaaffe",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 63,
+            "name": "Counterfeit Beatles",
+            "sort-name": "Counterfeit Beatles",
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "The Beatles tribute band",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "7cac6d47-ef4e-4347-8835-63ed3f2e74a7",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 63,
+            "name": "Beatles Back2Back",
+            "sort-name": "Beatles Back2Back",
+            "country": "AU",
+            "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "The Beatles tribute band",
+            "life-span": {
+                "begin": "2011",
+                "ended": null
+            }
+        },
+        {
+            "id": "dc146c82-7709-41ee-8322-0d4c9fea0378",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 63,
+            "name": "Fab Beatles",
+            "sort-name": "Fab Beatles",
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "de0769fa-7c32-4706-9c8c-03631c90f208",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 63,
+            "name": "Shitty Beatles",
+            "sort-name": "Shitty Beatles",
+            "area": {
+                "id": "dbe53871-db21-47ea-a0c3-3ab58317a3ab",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Gainesville",
+                "sort-name": "Gainesville",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "dbe53871-db21-47ea-a0c3-3ab58317a3ab",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Gainesville",
+                "sort-name": "Gainesville",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "dbe53871-db21-47ea-a0c3-3ab58317a3ab",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Gainesville",
+                "sort-name": "Gainesville",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Gainesville, FL Beatles cover band",
+            "life-span": {
+                "begin": "2005",
+                "end": "2015-04-19",
+                "ended": true
+            }
+        },
+        {
+            "id": "91a7ade0-d51d-4f94-81e8-44b75e67b862",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 63,
+            "name": "Capital Beatles",
+            "sort-name": "Capital Beatles",
+            "begin-area": {
+                "id": "bbc88d72-1f32-4936-8dc6-b62b3318e1c4",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Ottawa",
+                "sort-name": "Ottawa",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "begin": "2016",
+                "ended": null
+            }
+        },
+        {
+            "id": "35574687-3a4d-4b30-a01a-43fea73b3430",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 63,
+            "name": "Them Beatles",
+            "sort-name": "Them Beatles",
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Beatles tribute band",
+            "life-span": {
+                "ended": null
+            },
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "empty"
+                }
+            ]
+        },
+        {
+            "id": "3badd533-4ce6-4fd6-a5ee-76799406c355",
+            "score": 63,
+            "name": "Norwegian Beatles",
+            "sort-name": "Norwegian Beatles",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "9d953ee6-4ea6-4b0e-aea6-7268d380bef1",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 63,
+            "name": "The Beatles",
+            "sort-name": "Beatles, The",
+            "disambiguation": "SiIvaGunner collaboration",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "45728e46-503b-4b07-8030-4a9d5ba764f5",
+            "score": 63,
+            "name": "Beatles Costello",
+            "sort-name": "Beatles Costello",
+            "disambiguation": "Andy Paley",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "ebb13877-6f89-431c-a0e2-5f7366ddb0e8",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 63,
+            "name": "Dear Beatles",
+            "sort-name": "Dear Beatles",
+            "country": "AR",
+            "area": {
+                "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Argentina",
+                "sort-name": "Argentina",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Buenos Aires",
+                "sort-name": "Buenos Aires",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Beatles tribute band from Argentina",
+            "life-span": {
+                "begin": "2017",
+                "ended": null
+            }
+        },
+        {
+            "id": "898e211b-06ad-460b-85ee-cd6ac337ef79",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 59,
+            "name": "The Beatles Connection",
+            "sort-name": "Beatles Connection, The",
+            "country": "DE",
+            "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "5d668739-7f88-4062-9bc5-11a90e838310",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Braunschweig",
+                "sort-name": "Braunschweig",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Beatles Tribute Band",
+            "life-span": {
+                "begin": "2009",
+                "ended": null
+            }
+        },
+        {
+            "id": "d6e9e3d2-b526-4664-8b00-7e0b28b6ed58",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 58,
+            "name": "Pete Best Beatles",
+            "sort-name": "Pete Best Beatles",
+            "country": "AU",
+            "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Australia 1980s",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "7383113a-2b44-4fd1-a2b1-277ca68803b7",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 58,
+            "name": "The Better Beatles",
+            "sort-name": "Better Beatles, The",
+            "begin-area": {
+                "id": "7968b302-75a6-4456-a09e-7bf7ac13293a",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Omaha",
+                "sort-name": "Omaha",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "begin": "1981",
+                "end": "1981",
+                "ended": true
+            },
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "new wave"
+                }
+            ]
+        },
+        {
+            "id": "c658db41-358b-43ba-a06b-8a07ab410407",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 57,
+            "name": "The Wife-Beatles",
+            "sort-name": "Wife-Beatles, The",
+            "area": {
+                "id": "05f68b4c-10f3-49b5-b28c-260a1b707043",
+                "type": "Subdivision",
+                "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+                "name": "Massachusetts",
+                "sort-name": "Massachusetts",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "ended": null
+            },
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "classic rock"
+                },
+                {
+                    "count": 1,
+                    "name": "rock"
+                }
+            ]
+        }
+    ]
+}

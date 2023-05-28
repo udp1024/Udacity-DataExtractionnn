@@ -1,0 +1,520 @@
+{
+    "created": "2023-05-28T18:15:23.404Z",
+    "count": 2989,
+    "offset": 0,
+    "artists": [
+        {
+            "id": "1a425bbd-cca4-4b2c-aeb7-71cb176c828a",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "One Direction",
+            "sort-name": "One Direction",
+            "area": {
+                "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+                "type": "Subdivision",
+                "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+                "name": "England",
+                "sort-name": "England",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "808dbe1f-5047-4f97-aeca-cd16ccced82e",
+                "type": "District",
+                "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+                "name": "Wembley",
+                "sort-name": "Wembley",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "96bbe327-f9cd-42e0-a689-eb9febe1693f",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Hollywood",
+                "sort-name": "Hollywood",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "isnis": [
+                "000000047035041X"
+            ],
+            "life-span": {
+                "begin": "2010-07-23",
+                "end": "2015-12-31",
+                "ended": true
+            },
+            "aliases": [
+                {
+                    "sort-name": "1D|One Direction",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "1D|One Direction",
+                    "locale": null,
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "1D",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "1D",
+                    "locale": null,
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "pop"
+                },
+                {
+                    "count": 1,
+                    "name": "power pop"
+                },
+                {
+                    "count": 1,
+                    "name": "dance-pop"
+                },
+                {
+                    "count": 1,
+                    "name": "pop rock"
+                },
+                {
+                    "count": 1,
+                    "name": "folk pop"
+                },
+                {
+                    "count": 3,
+                    "name": "boy band"
+                },
+                {
+                    "count": 1,
+                    "name": "teen pop"
+                }
+            ]
+        },
+        {
+            "id": "d3479e62-76ac-4aec-9f95-5b222d1e26b1",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 88,
+            "name": "Direction",
+            "sort-name": "Direction",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "San Francisco band",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "a234ebb0-0399-4253-baf6-2ae0abc9d8f2",
+            "score": 87,
+            "name": "Direction",
+            "sort-name": "Direction",
+            "area": {
+                "id": "b2bc1294-77be-4c7b-af93-9868b83b1f34",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Auckland",
+                "sort-name": "Auckland",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "New Zealand punk?",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "574236dc-aa46-4194-8200-6cb039e9ddbd",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 75,
+            "name": "Right Direction",
+            "sort-name": "Right Direction",
+            "country": "NL",
+            "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "0b565bc6-05e7-4c3a-bc28-075fabd9a8d0",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Maastricht",
+                "sort-name": "Maastricht",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Dutch 1990/2000s hardcore/punk band",
+            "life-span": {
+                "begin": "1989",
+                "end": "2008",
+                "ended": true
+            }
+        },
+        {
+            "id": "cfd2b787-3656-44ce-9212-9e555b400af5",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 75,
+            "name": "New Direction",
+            "sort-name": "New Direction",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "a32cc520-f2e6-4db2-8b61-c7baca599ef5",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 75,
+            "name": "Second Direction",
+            "sort-name": "Second Direction",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "fbb9e21b-a674-45e5-b1fc-6787dd221fec",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 74,
+            "name": "Direction Survet",
+            "sort-name": "Direction Survet",
+            "country": "FR",
+            "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "France",
+                "sort-name": "France",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "French jazz-rock band",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "9e9d35c3-ce54-4a48-b3ba-4eebdadc1ed8",
+            "score": 74,
+            "name": "Audio Direction",
+            "sort-name": "Audio Direction",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "ce85410c-10e4-4b2e-a878-72483fcf0884",
+            "score": 74,
+            "name": "7th Direction",
+            "sort-name": "7th Direction",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "6130ddae-22dd-4930-ba0f-6d59f81d3637",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 74,
+            "name": "The Direction",
+            "sort-name": "Direction, The",
+            "life-span": {
+                "begin": "2009-08",
+                "ended": null
+            }
+        },
+        {
+            "id": "00463d32-d3a2-4e39-bfb0-dec57e4623aa",
+            "score": 74,
+            "name": "Nu-Direction",
+            "sort-name": "Nu-Direction",
+            "disambiguation": "drum & bass",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "d554887e-2e17-48f4-8610-624a944a9329",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 74,
+            "name": "No Direction",
+            "sort-name": "No Direction",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "USA punk band",
+            "life-span": {
+                "ended": null
+            },
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "usa"
+                },
+                {
+                    "count": 1,
+                    "name": "punk"
+                }
+            ]
+        },
+        {
+            "id": "74c2fbfc-0ced-4f8a-9da6-7df628755757",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 74,
+            "name": "No Direction",
+            "sort-name": "No Direction",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "75fb2c35-4f3a-4145-b948-da871176f039",
+            "score": 74,
+            "name": "Disco Direction",
+            "sort-name": "Disco Direction",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "2524b4ea-965f-4628-b940-acd0a9210047",
+            "score": 74,
+            "name": "Lost Direction",
+            "sort-name": "Lost Direction",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "355fa6a9-dba2-43b0-bd0f-a9e6dc14c79f",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 74,
+            "name": "Direction X",
+            "sort-name": "Direction X",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "47813cd0-be78-48ab-802f-1306fc180124",
+            "score": 74,
+            "name": "Loose Direction",
+            "sort-name": "Loose Direction",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "e2257b1e-cfcf-4dff-adbb-8cb24ffec053",
+            "score": 74,
+            "name": "Miss Direction",
+            "sort-name": "Miss Direction",
+            "disambiguation": "Mastercuts R&B",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "a92bc128-7d14-40a7-a11f-1ef298f9a530",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 74,
+            "name": "Cardinal Direction",
+            "sort-name": "Cardinal Direction",
+            "area": {
+                "id": "05f68b4c-10f3-49b5-b28c-260a1b707043",
+                "type": "Subdivision",
+                "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+                "name": "Massachusetts",
+                "sort-name": "Massachusetts",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "ended": null
+            },
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "contra"
+                }
+            ]
+        },
+        {
+            "id": "c185d451-e865-4123-a312-d2c22c1b9b04",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 74,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Opposite Direction",
+            "sort-name": "Opposite Direction",
+            "gender": "male",
+            "disambiguation": "Adrian Porwol",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "8d6fe854-2800-49ca-b212-7f2c96f34a8a",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 74,
+            "name": "Right Direction",
+            "sort-name": "Right Direction",
+            "disambiguation": "Funk/Soul/Disco group",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "462a68e3-e453-4f57-b705-fa99a570a289",
+            "score": 74,
+            "name": "point_direction",
+            "sort-name": "point_direction",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "3fedf601-0039-4ba4-af53-7b6d1ff5b69a",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 70,
+            "name": "Uncharted Shores",
+            "sort-name": "Uncharted Shores",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "California band, formerly known as One Direction",
+            "life-span": {
+                "begin": "2009",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "One Direction",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "One Direction",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "wrong-one"
+                }
+            ]
+        },
+        {
+            "id": "6514fb50-3343-44ea-a146-2f313a063d2e",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 70,
+            "name": "Di_Indicator",
+            "sort-name": "Di_Indicator",
+            "life-span": {
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Direction Indicator",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Direction Indicator",
+                    "locale": null,
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ]
+        },
+        {
+            "id": "a46c3fb1-64ad-4836-bb8c-163aa5ed504c",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 67,
+            "name": "New Direction Unit",
+            "sort-name": "New Direction Unit",
+            "country": "JP",
+            "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Masayuki Takayanagi New Direction",
+                    "name": "\u9ad8\u67f3\u660c\u884c New Direction",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ]
+        }
+    ]
+}
