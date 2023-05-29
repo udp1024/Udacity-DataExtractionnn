@@ -1,4 +1,7 @@
+# Command file to setup CLI for interactive coding in Python for musicbrainz.py app
+# python3
 # exec(open("JSON/command-line-setup.py").read())
+
 import json
 import requests
 
