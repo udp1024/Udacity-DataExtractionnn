@@ -1,0 +1,1203 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/addb631b-7d4c-5e10-8776-7822a43ec435",
+      "url": "https://www.nytimes.com/2023/05/28/health/pregnancy-childbirth-deaths.html",
+      "id": 100000008865050,
+      "asset_id": 100000008865050,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-28 13:36:21",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Maternal Mortality;Pregnancy and Childbirth;Deaths (Fatalities);Black People;Native Americans;Heart;Blood Pressure;Hypertension;Stroke;Preeclampsia;Suicides and Suicide Attempts;Depression (Mental);Mental Health and Disorders;Anxiety and Stress;Research;your-feed-science;Centers for Disease Control and Prevention;United States",
+      "column": null,
+      "byline": "By Roni Caryn Rabin",
+      "type": "Article",
+      "title": "Maternity\u2019s Most Dangerous Time: After New Mothers Come Home",
+      "abstract": "Recent research shows that most pregnancy-related deaths occur in the year after a baby is born. The discovery is changing how doctors care for new mothers.",
+      "des_facet": [
+        "Maternal Mortality",
+        "Pregnancy and Childbirth",
+        "Deaths (Fatalities)",
+        "Black People",
+        "Native Americans",
+        "Heart",
+        "Blood Pressure",
+        "Hypertension",
+        "Stroke",
+        "Preeclampsia",
+        "Suicides and Suicide Attempts",
+        "Depression (Mental)",
+        "Mental Health and Disorders",
+        "Anxiety and Stress",
+        "Research",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aryana Jacobs of Washington, D.C., developed life-threatening high blood pressure after her baby was born. \u201cI wish every new mother was sent home with a box of chocolates and a blood pressure cuff,\u201d she said.",
+          "copyright": "Shuran Huang for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/03/multimedia/00postpartum-01-qwjp/00postpartum-01-qwjp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/03/multimedia/00postpartum-01-qwjp/00postpartum-01-qwjp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/03/multimedia/00postpartum-01-qwjp/00postpartum-01-qwjp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9d3940b6-fae9-5520-b942-13767b50eb37",
+      "url": "https://www.nytimes.com/2023/05/28/us/politics/debt-ceiling-deal-takeaways.html",
+      "id": 100000008927202,
+      "asset_id": 100000008927202,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-29 01:04:40",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;National Debt (US);Federal Budget (US);Biden, Joseph R Jr;McCarthy, Kevin (1965- );Republican Party;House of Representatives;Treasury Department",
+      "column": null,
+      "byline": "By Peter Baker",
+      "type": "Article",
+      "title": "Initial Takeaways From the Spending and Debt Ceiling Deal",
+      "abstract": "Details are trickling out about the accord that could avert a default on the national debt. Here\u2019s what to know.",
+      "des_facet": [
+        "United States Politics and Government",
+        "National Debt (US)",
+        "Federal Budget (US)"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "House of Representatives",
+        "Treasury Department"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "McCarthy, Kevin (1965- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Capitol building, which was the site of many news conferences on the debt-ceiling talks this past week.",
+          "copyright": "Haiyun Jiang for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/27/multimedia/27dcdebt-takaways-wzqk/27dcdebt-takaways-wzqk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/27/multimedia/27dcdebt-takaways-wzqk/27dcdebt-takaways-wzqk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/27/multimedia/27dcdebt-takaways-wzqk/27dcdebt-takaways-wzqk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c9d4ccf3-0523-5ac6-b67f-95da3765e14f",
+      "url": "https://www.nytimes.com/2023/05/27/movies/cannes-palme-dor-winner-anatomy-of-a-fall.html",
+      "id": 100000008927032,
+      "asset_id": 100000008927032,
+      "source": "New York Times",
+      "published_date": "2023-05-27",
+      "updated": "2023-05-28 22:04:08",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Cannes International Film Festival;Movies;Awards, Decorations and Honors;Triet, Justine;Cannes (France)",
+      "column": null,
+      "byline": "By Manohla Dargis",
+      "type": "Article",
+      "title": "\u2018Anatomy of a Fall\u2019 Wins the Palme d\u2019Or",
+      "abstract": "The French filmmaker Justine Triet becomes the third woman to win the top honor at the Cannes Film Festival.",
+      "des_facet": [
+        "Cannes International Film Festival",
+        "Movies",
+        "Awards, Decorations and Honors"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Triet, Justine"
+      ],
+      "geo_facet": [
+        "Cannes (France)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The French director Justine Triet displayed the Palme d\u2019Or for her film \u201cAnatomy of a Fall\u201d at the Cannes Film Festival on Saturday.",
+          "copyright": "Gonzalo Fuentes/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/29/multimedia/27-CANNES-WINNER-TRIET/27_CANNES-WINNER-TRIET-fjkh-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/29/multimedia/27-CANNES-WINNER-TRIET/27_CANNES-WINNER-TRIET-fjkh-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/29/multimedia/27-CANNES-WINNER-TRIET/27_CANNES-WINNER-TRIET-fjkh-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/79dd107b-06ac-585d-90b3-d25e41b20b75",
+      "url": "https://www.nytimes.com/2023/05/27/us/politics/debt-ceiling-deal.html",
+      "id": 100000008925510,
+      "asset_id": 100000008925510,
+      "source": "New York Times",
+      "published_date": "2023-05-27",
+      "updated": "2023-05-28 11:49:25",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Federal Budget (US);Law and Legislation;National Debt (US);Biden, Joseph R Jr;McCarthy, Kevin (1965- );Democratic Party;House of Representatives;Republican Party;Senate",
+      "column": null,
+      "byline": "By Jim Tankersley, Catie Edmondson and Luke Broadwater",
+      "type": "Article",
+      "title": "White House and G.O.P. Strike Debt Limit Deal to Avert Default",
+      "abstract": "With the government on track to reach its borrowing limit within days, negotiators sealed an agreement to raise the debt ceiling for two years while cutting and capping certain federal programs.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Federal Budget (US)",
+        "Law and Legislation",
+        "National Debt (US)"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "House of Representatives",
+        "Republican Party",
+        "Senate"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "McCarthy, Kevin (1965- )"
+      ],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/476172a8-4a01-57b3-a69c-5b9e0deae6a7",
+      "url": "https://www.nytimes.com/2023/05/28/us/politics/biden-debt-limit-deal.html",
+      "id": 100000008927370,
+      "asset_id": 100000008927370,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-29 00:22:17",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Welfare (US);United States Economy;Medicaid;National Debt (US);Federal Budget (US);Food Stamps;McCarthy, Kevin (1965- );Biden, Joseph R Jr;Democratic Party;House of Representatives;Internal Revenue Service;Republican Party;Senate",
+      "column": null,
+      "byline": "By Peter Baker",
+      "type": "Article",
+      "title": "In Pursuit of Consensus, Did Biden Find the Reasonable Middle or Give Away Too Much?",
+      "abstract": "The deal to raise the debt ceiling bolsters President Biden\u2019s argument that he is committed to bipartisanship, but it comes at the cost of rankling many in his own party.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Welfare (US)",
+        "United States Economy",
+        "Medicaid",
+        "National Debt (US)",
+        "Federal Budget (US)",
+        "Food Stamps"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "House of Representatives",
+        "Internal Revenue Service",
+        "Republican Party",
+        "Senate"
+      ],
+      "per_facet": [
+        "McCarthy, Kevin (1965- )",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Having reached an agreement with Speaker Kevin McCarthy, President Biden now must face tough questions from members of his own party.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28dc-assess-Biden2-mbgf/28dc-assess-Biden2-mbgf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28dc-assess-Biden2-mbgf/28dc-assess-Biden2-mbgf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28dc-assess-Biden2-mbgf/28dc-assess-Biden2-mbgf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2021ffeb-39fe-5088-87b6-f5cb80337ef2",
+      "url": "https://www.nytimes.com/2023/05/28/arts/television/succession-series-finale-recap.html",
+      "id": 100000008927454,
+      "asset_id": 100000008927454,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-29 13:13:10",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Television;internal-open-access-search",
+      "column": null,
+      "byline": "By Noel Murray",
+      "type": "Article",
+      "title": "\u2018Succession\u2019 Series Finale Recap: The Dotted Line",
+      "abstract": "Who won? Who lost? Who was left staring off into the sea?",
+      "des_facet": [
+        "Television",
+        "internal-open-access-search"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Jeremy Strong, Sarah Snook and Kieran Culkin in the series finale of \u201cSuccession.\u201d",
+          "copyright": "Sarah Shatz/HBO",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/arts/28succession-recap-2/28succession-recap-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/arts/28succession-recap-2/28succession-recap-2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/arts/28succession-recap-2/28succession-recap-2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b9c24f79-7dd1-52a1-98b8-e5cce040b2d2",
+      "url": "https://www.nytimes.com/2023/05/27/us/mississippi-11-year-old-boy-police-shooting.html",
+      "id": 100000008926996,
+      "asset_id": 100000008926996,
+      "source": "New York Times",
+      "published_date": "2023-05-27",
+      "updated": "2023-05-28 10:46:09",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Police Brutality, Misconduct and Shootings;Murry, Aderrien;Capers, Greg (Indianola, Miss, Police Officer);Indianola (Miss);Mississippi",
+      "column": null,
+      "byline": "By McKenna Oxenden and Jessica Jaglois",
+      "type": "Article",
+      "title": "An 11-Year-Old Boy Called 911. Police Then Shot Him.",
+      "abstract": "Aderrien Murry suffered numerous injuries, including a collapsed lung, lacerated liver and fractured ribs. His family is demanding that the officer who shot him be fired.",
+      "des_facet": [
+        "Police Brutality, Misconduct and Shootings"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Murry, Aderrien",
+        "Capers, Greg (Indianola, Miss, Police Officer)"
+      ],
+      "geo_facet": [
+        "Indianola (Miss)",
+        "Mississippi"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aderrien Murry, 11, was shot and wounded by a police officer last week during a domestic disturbance call.",
+          "copyright": "Nakala Murry, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/27/multimedia/27xp-shooting-1-cbzk/27xp-shooting-1-cbzk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/27/multimedia/27xp-shooting-1-cbzk/27xp-shooting-1-cbzk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/27/multimedia/27xp-shooting-1-cbzk/27xp-shooting-1-cbzk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/747d1d42-2a1e-55e8-adbe-1f59af18b7fd",
+      "url": "https://www.nytimes.com/2023/05/28/arts/television/succession-finale.html",
+      "id": 100000008919800,
+      "asset_id": 100000008919800,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-29 00:08:08",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Television",
+      "column": null,
+      "byline": "By Alexis Soloski",
+      "type": "Article",
+      "title": "\u2018Succession\u2019 Is Over. Why Did We Care?",
+      "abstract": "For five years, the series and the question of who would end up in charge captivated a chatty swath of the TV audience. But did anyone really win in the end?",
+      "des_facet": [
+        "Television"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matthew Macfadyen and Sarah Snook in the \u201cSuccession\u201d series finale.",
+          "copyright": "HBO",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/arts/28succession-1/28succession-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/arts/28succession-1/28succession-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/arts/28succession-1/28succession-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/35a16c93-a13e-5bdb-bdd9-0c64c0306d15",
+      "url": "https://www.nytimes.com/2023/05/26/realestate/little-ram-oyster-long-island.html",
+      "id": 100000008888077,
+      "asset_id": 100000008888077,
+      "source": "New York Times",
+      "published_date": "2023-05-26",
+      "updated": "2023-05-27 08:59:56",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Oysters;Fish Farming;Real Estate (Commercial);Small Business;Content Type: Personal Profile;Bassett, Stefanie (1980- );Peeples, Elizabeth (1980- );Cornelius & Little Ram Oyster Co LLC;Little Ram Island (NY);Shelter Island (NY);Southold (NY);North Fork (NY);Long Island (NY);Suffolk County (NY)",
+      "column": null,
+      "byline": "By Heather Senison",
+      "type": "Article",
+      "title": "They Knew Little About Oysters. Now They Have a Farm With 2 Million.",
+      "abstract": "Stefanie Bassett and Elizabeth Peeples left their city lives behind to raise mollusks.",
+      "des_facet": [
+        "Oysters",
+        "Fish Farming",
+        "Real Estate (Commercial)",
+        "Small Business",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Cornelius & Little Ram Oyster Co LLC"
+      ],
+      "per_facet": [
+        "Bassett, Stefanie (1980- )",
+        "Peeples, Elizabeth (1980- )"
+      ],
+      "geo_facet": [
+        "Little Ram Island (NY)",
+        "Shelter Island (NY)",
+        "Southold (NY)",
+        "North Fork (NY)",
+        "Long Island (NY)",
+        "Suffolk County (NY)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/28ee5d1e-2f75-5eaf-8063-d40fba7edfc2",
+      "url": "https://www.nytimes.com/2023/05/28/us/politics/feinstein-senate-staff.html",
+      "id": 100000008921744,
+      "asset_id": 100000008921744,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-28 14:39:30",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Feinstein, Dianne;Senate;Democratic Party;California",
+      "column": null,
+      "byline": "By Annie Karni",
+      "type": "Article",
+      "title": "Feinstein, Back in the Senate, Relies Heavily on Staff to Function",
+      "abstract": "The California Democrat is surrounded by a large retinue of aides at all times, who tell her how and when to vote, explain what is going on when she is confused, and shield her from the press and public.",
+      "des_facet": [
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Senate",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Feinstein, Dianne"
+      ],
+      "geo_facet": [
+        "California"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Dianne Feinstein, Democrat of California, has suffered a decline in health.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/multimedia/00dc-feinstein-01-zthm/00dc-feinstein-01-zthm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/multimedia/00dc-feinstein-01-zthm/00dc-feinstein-01-zthm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/multimedia/00dc-feinstein-01-zthm/00dc-feinstein-01-zthm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/bcec4b6d-17f8-5ba9-810d-17d67f92bc5a",
+      "url": "https://www.nytimes.com/2023/05/28/world/europe/andrei-medvedev-wagner-russia-norway-ukraine.html",
+      "id": 100000008919556,
+      "asset_id": 100000008919556,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-29 11:20:34",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);International Relations;Mercenaries and Private Military Contractors;Asylum, Right of;War Crimes, Genocide and Crimes Against Humanity;Defectors (Political);Desertion (Military);Medvedev, Andrei (1996- );Wagner Group;Norway;Ukraine;Russia;Europe",
+      "column": null,
+      "byline": "By Anatoly Kurmanaev and Henrik Pryser Libell",
+      "type": "Article",
+      "title": "A Russian Deserter\u2019s Flight to Norway Presents a Fraught Dilemma for His Host",
+      "abstract": "Andrei Medvedev fought with Russia\u2019s Wagner mercenaries in Ukraine, then requested asylum in Norway. The authorities there must now weigh his plea against solidarity with Ukraine.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "International Relations",
+        "Mercenaries and Private Military Contractors",
+        "Asylum, Right of",
+        "War Crimes, Genocide and Crimes Against Humanity",
+        "Defectors (Political)",
+        "Desertion (Military)"
+      ],
+      "org_facet": [
+        "Wagner Group"
+      ],
+      "per_facet": [
+        "Medvedev, Andrei (1996- )"
+      ],
+      "geo_facet": [
+        "Norway",
+        "Ukraine",
+        "Russia",
+        "Europe"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Andrei Medvedev, who fought with Russia\u2019s Wagner mercenary group, is seeking asylum in Norway, while providing information on Wagner\u2019s fight in Ukraine.",
+          "copyright": "Andrea Gjestvang for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/25/multimedia/25russia-defector-01-zpkm/25russia-defector-01-zpkm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/25/multimedia/25russia-defector-01-zpkm/25russia-defector-01-zpkm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/25/multimedia/25russia-defector-01-zpkm/25russia-defector-01-zpkm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d0b9563e-dc72-5d1d-83ea-51a333058e74",
+      "url": "https://www.nytimes.com/2023/05/28/arts/television/george-maharis-dead.html",
+      "id": 100000006673843,
+      "asset_id": 100000006673843,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-29 11:32:21",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Deaths (Obituaries);Television;Actors and Actresses;Maharis, George;Milner, Martin (1931-2015)",
+      "column": null,
+      "byline": "By Anita Gates and Alex Traub",
+      "type": "Article",
+      "title": "George Maharis, TV Heartthrob of \u2018Route 66,\u2019 Is Dead at 94",
+      "abstract": "He appeared in Off Broadway roles before starring on CBS as one of two young men who find adventure crossing the country in a Corvette convertible.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Television",
+        "Actors and Actresses"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Maharis, George",
+        "Milner, Martin (1931-2015)"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "George Maharis, left, as Buz Murdock and Martin Milner as Tod Stiles in 1960 with their Corvette from the television show \u201cRoute 66.\u201d Mr. Maharis received an Emmy Award nomination in 1962 for his work on the show.",
+          "copyright": "CBS Photo Archive/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/29/lens/28maharis-02/28maharis-02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/29/lens/28maharis-02/28maharis-02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/29/lens/28maharis-02/28maharis-02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/0b7454b8-9e9a-52a6-8d65-c5d25922f3f6",
+      "url": "https://www.nytimes.com/interactive/2023/05/26/arts/television/succession-finale-quiz.html",
+      "id": 100000008913015,
+      "asset_id": 100000008913015,
+      "source": "New York Times",
+      "published_date": "2023-05-26",
+      "updated": "2023-05-28 14:19:33",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "vis-design;Strong, Jeremy (1978- );Cox, Brian;Culkin, Kieran",
+      "column": null,
+      "byline": "By Tala Safie",
+      "type": "Interactive",
+      "title": "How Well Do You Know \u2018Succession\u2019?",
+      "abstract": "This is not a personality quiz.",
+      "des_facet": [
+        "vis-design"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Strong, Jeremy (1978- )",
+        "Cox, Brian",
+        "Culkin, Kieran"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "HBO",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/arts/26promo-succession-quiz/26promo-succession-quiz-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/arts/26promo-succession-quiz/26promo-succession-quiz-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/arts/26promo-succession-quiz/26promo-succession-quiz-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a6308516-77fa-5075-9d1d-c2ccfe136781",
+      "url": "https://www.nytimes.com/2023/05/29/us/politics/debt-ceiling-economy.html",
+      "id": 100000008925724,
+      "asset_id": 100000008925724,
+      "source": "New York Times",
+      "published_date": "2023-05-29",
+      "updated": "2023-05-29 08:07:59",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Economy;United States Politics and Government;Federal Budget (US);Inflation (Economics);National Debt (US);Biden, Joseph R Jr;McCarthy, Kevin (1965- );Harris, Ben (1977- )",
+      "column": null,
+      "byline": "By Jim Tankersley",
+      "type": "Article",
+      "title": "Why Spending Cuts Likely Won\u2019t Shake the Economy",
+      "abstract": "With low unemployment and above-trend inflation, the economy is well positioned to absorb the modest budget cuts that President Biden and Republicans negotiated.",
+      "des_facet": [
+        "United States Economy",
+        "United States Politics and Government",
+        "Federal Budget (US)",
+        "Inflation (Economics)",
+        "National Debt (US)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "McCarthy, Kevin (1965- )",
+        "Harris, Ben (1977- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some economists say the economy could use a mild dose of fiscal austerity right now to help lower a persistently high inflation rate.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/multimedia/00dc-debt-econ-01-gbtq/00dc-debt-econ-01-gbtq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/multimedia/00dc-debt-econ-01-gbtq/00dc-debt-econ-01-gbtq-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/multimedia/00dc-debt-econ-01-gbtq/00dc-debt-econ-01-gbtq-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2909aab9-7138-581c-8e07-911ed5abad46",
+      "url": "https://www.nytimes.com/2023/05/28/sports/basketball/miami-heat-game-6.html",
+      "id": 100000008927221,
+      "asset_id": 100000008927221,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-29 00:11:02",
+      "section": "Sports",
+      "subsection": "Basketball",
+      "nytdsection": "sports",
+      "adx_keywords": "Basketball;Playoff Games;Adebayo, Bam (1997- );Butler, Jimmy;Lowry, Kyle (1986- );Martin, Caleb (1995- );Spoelstra, Erik;Tatum, Jayson (1998- );Vincent, Gabe (1996- );White, Derrick (1994- );Boston Celtics;Miami Heat",
+      "column": null,
+      "byline": "By Scott Cacciola",
+      "type": "Article",
+      "title": "The Miami Heat Are in Trouble, and It\u2019s (Mostly) Their Fault",
+      "abstract": "The Heat let a 3-0 series lead slip away in the Eastern Conference finals with sloppy play, bad shooting and disappearing acts by their stars.",
+      "des_facet": [
+        "Basketball",
+        "Playoff Games"
+      ],
+      "org_facet": [
+        "Boston Celtics",
+        "Miami Heat"
+      ],
+      "per_facet": [
+        "Adebayo, Bam (1997- )",
+        "Butler, Jimmy",
+        "Lowry, Kyle (1986- )",
+        "Martin, Caleb (1995- )",
+        "Spoelstra, Erik",
+        "Tatum, Jayson (1998- )",
+        "Vincent, Gabe (1996- )",
+        "White, Derrick (1994- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Miami Heat forward Jimmy Butler made just two shots before the fourth quarter of Game 6 and looked hesitant for most of the game.",
+          "copyright": "Mike Ehrmann/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28nba-east-g6-1-mvgh/28nba-east-g6-1-mvgh-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28nba-east-g6-1-mvgh/28nba-east-g6-1-mvgh-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28nba-east-g6-1-mvgh/28nba-east-g6-1-mvgh-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/29236e6a-d162-5908-a681-052a4602b0cf",
+      "url": "https://www.nytimes.com/2023/05/29/us/politics/north-dakota-teen-death-right-wing-trump.html",
+      "id": 100000008920420,
+      "asset_id": 100000008920420,
+      "source": "New York Times",
+      "published_date": "2023-05-29",
+      "updated": "2023-05-29 13:35:04",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Right-Wing Extremism and Alt-Right;News and News Media;Traffic Accidents and Safety;United States Politics and Government;Deaths (Fatalities);Conservatism (US Politics);Fox News Channel;North Dakota",
+      "column": null,
+      "byline": "By Charles Homans and Ken Bensinger",
+      "type": "Article",
+      "title": "A Small Town\u2019s Tragedy, Distorted by Trump\u2019s Megaphone",
+      "abstract": "When a teen\u2019s killing became a right-wing talking point, the rush to outrage obscured a more complicated story.",
+      "des_facet": [
+        "Right-Wing Extremism and Alt-Right",
+        "News and News Media",
+        "Traffic Accidents and Safety",
+        "United States Politics and Government",
+        "Deaths (Fatalities)",
+        "Conservatism (US Politics)"
+      ],
+      "org_facet": [
+        "Fox News Channel"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "North Dakota"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In September, Shannon Brandt and Cayler Ellingson got into an argument after last call at Buck\u2019s n Doe\u2019s Bar & Grill in McHenry, N.D. What happened next led to a brief national political firestorm.",
+          "copyright": "Lewis Ableidinger for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/29/multimedia/29pol-northdakota-qhzt/29pol-northdakota-qhzt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/29/multimedia/29pol-northdakota-qhzt/29pol-northdakota-qhzt-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/29/multimedia/29pol-northdakota-qhzt/29pol-northdakota-qhzt-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/65cfae14-05a7-5043-9088-d5f39a886f53",
+      "url": "https://www.nytimes.com/interactive/2023/05/26/books/summer-reading.html",
+      "id": 100000008913868,
+      "asset_id": 100000008913868,
+      "source": "New York Times",
+      "published_date": "2023-05-26",
+      "updated": "2023-05-27 16:20:29",
+      "section": "Books",
+      "subsection": "",
+      "nytdsection": "books",
+      "adx_keywords": "Books and Literature;internal-open-access;genre-books-thriller;genre-books-mystery;genre-books-audiobooks;genre-books-historical-fiction;genre-books-science-fiction;genre-books-romance",
+      "column": null,
+      "byline": "",
+      "type": "Interactive",
+      "title": "Summer Books 2023",
+      "abstract": "Here are 47 literary escapes to take this season. Just add sand, sunscreen and a hot afternoon.",
+      "des_facet": [
+        "Books and Literature",
+        "internal-open-access",
+        "genre-books-thriller",
+        "genre-books-mystery",
+        "genre-books-audiobooks",
+        "genre-books-historical-fiction",
+        "genre-books-science-fiction",
+        "genre-books-romance"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Adolfo Reda\u00f1o",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/06/04/books/review/04SummerReading-COVER/04SummerReading-COVER-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/06/04/books/review/04SummerReading-COVER/04SummerReading-COVER-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/06/04/books/review/04SummerReading-COVER/04SummerReading-COVER-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/159b9149-1a11-562b-9a71-83142bc5b7d0",
+      "url": "https://www.nytimes.com/2023/05/28/sports/tennis/french-open-kostyuk-sabalenka-ukraine.html",
+      "id": 100000008923891,
+      "asset_id": 100000008923891,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-29 10:07:13",
+      "section": "Sports",
+      "subsection": "Tennis",
+      "nytdsection": "sports",
+      "adx_keywords": "Tennis;French Open (Tennis);Kalinina, Anhelina (1997- );Kostyuk, Marta;Sabalenka, Aryna;Svitolina, Elina;Trevisan, Martina (1993- )",
+      "column": null,
+      "byline": "By Matthew Futterman",
+      "type": "Article",
+      "title": "A Handshake Snub Gets a Chilly Reception at the French Open on Day 1",
+      "abstract": "Marta Kostyuk of Ukraine had the crowd on her side initially, but then was booed after she did not shake hands with Aryna Sabalenka of Belarus after losing to her in straight sets.",
+      "des_facet": [
+        "Tennis",
+        "French Open (Tennis)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kalinina, Anhelina (1997- )",
+        "Kostyuk, Marta",
+        "Sabalenka, Aryna",
+        "Svitolina, Elina",
+        "Trevisan, Martina (1993- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marta Kostyuk of Ukraine went straight to the chair umpire, Louise Azemar Engzell, without shaking hands with her opponent, Aryna Sabalenka of Belarus, on Sunday at the French Open.",
+          "copyright": "Pete Kiehart for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28french-ukraine-1-tcjp/28french-ukraine-1-tcjp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28french-ukraine-1-tcjp/28french-ukraine-1-tcjp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28french-ukraine-1-tcjp/28french-ukraine-1-tcjp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f369de14-06de-5d93-9d82-d50644b0b29b",
+      "url": "https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html",
+      "id": 100000008925878,
+      "asset_id": 100000008925878,
+      "source": "New York Times",
+      "published_date": "2023-05-27",
+      "updated": "2023-05-29 00:26:54",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Legal Profession;Artificial Intelligence;ChatGPT;Rumors and Misinformation;Suits and Litigation (Civil);internal-sub-only-except-search;Avianca;Manhattan (NYC)",
+      "column": null,
+      "byline": "By Benjamin Weiser",
+      "type": "Article",
+      "title": "Here\u2019s What Happens When Your Lawyer Uses ChatGPT",
+      "abstract": "A lawyer representing a man who sued an airline relied on artificial intelligence to help prepare a court filing. It did not go well.",
+      "des_facet": [
+        "Legal Profession",
+        "Artificial Intelligence",
+        "ChatGPT",
+        "Rumors and Misinformation",
+        "Suits and Litigation (Civil)",
+        "internal-sub-only-except-search"
+      ],
+      "org_facet": [
+        "Avianca"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Manhattan (NYC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As an Avianca flight approached Kennedy International Airport in New York, a serving cart collision began a legal saga, prompting the question: Is artificial intelligence so smart?",
+          "copyright": "Nicolas Economou/NurPhoto, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/lens/28airline-suit1/28airline-suit1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/lens/28airline-suit1/28airline-suit1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/lens/28airline-suit1/28airline-suit1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/756df33a-334d-5925-a959-6ef5b459adc4",
+      "url": "https://www.nytimes.com/2023/05/28/opinion/artificial-intelligence-thinking-minds-concentration.html",
+      "id": 100000008918258,
+      "asset_id": 100000008918258,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-28 15:01:40",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Artificial Intelligence;Computers and the Internet;Colleges and Universities;Language and Languages;ChatGPT;E-Mail",
+      "column": null,
+      "byline": "By Ezra Klein",
+      "type": "Article",
+      "title": "Beyond the \u2018Matrix\u2019 Theory of the Mind",
+      "abstract": "To make good on its promise, artificial intelligence needs to deepen human intelligence.",
+      "des_facet": [
+        "Artificial Intelligence",
+        "Computers and the Internet",
+        "Colleges and Universities",
+        "Language and Languages",
+        "ChatGPT",
+        "E-Mail"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Anderson/Magnum Photos",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/30/opinion/28klein-01/28klein-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/30/opinion/28klein-01/28klein-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/30/opinion/28klein-01/28klein-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

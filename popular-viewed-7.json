@@ -1,0 +1,1185 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/b9c24f79-7dd1-52a1-98b8-e5cce040b2d2",
+      "url": "https://www.nytimes.com/2023/05/27/us/mississippi-11-year-old-boy-police-shooting.html",
+      "id": 100000008926996,
+      "asset_id": 100000008926996,
+      "source": "New York Times",
+      "published_date": "2023-05-27",
+      "updated": "2023-05-28 10:46:09",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Police Brutality, Misconduct and Shootings;Murry, Aderrien;Capers, Greg (Indianola, Miss, Police Officer);Indianola (Miss);Mississippi",
+      "column": null,
+      "byline": "By McKenna Oxenden and Jessica Jaglois",
+      "type": "Article",
+      "title": "An 11-Year-Old Boy Called 911. Police Then Shot Him.",
+      "abstract": "Aderrien Murry suffered numerous injuries, including a collapsed lung, lacerated liver and fractured ribs. His family is demanding that the officer who shot him be fired.",
+      "des_facet": [
+        "Police Brutality, Misconduct and Shootings"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Murry, Aderrien",
+        "Capers, Greg (Indianola, Miss, Police Officer)"
+      ],
+      "geo_facet": [
+        "Indianola (Miss)",
+        "Mississippi"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aderrien Murry, 11, was shot and wounded by a police officer last week during a domestic disturbance call.",
+          "copyright": "Nakala Murry, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/27/multimedia/27xp-shooting-1-cbzk/27xp-shooting-1-cbzk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/27/multimedia/27xp-shooting-1-cbzk/27xp-shooting-1-cbzk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/27/multimedia/27xp-shooting-1-cbzk/27xp-shooting-1-cbzk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/65cfae14-05a7-5043-9088-d5f39a886f53",
+      "url": "https://www.nytimes.com/interactive/2023/05/26/books/summer-reading.html",
+      "id": 100000008913868,
+      "asset_id": 100000008913868,
+      "source": "New York Times",
+      "published_date": "2023-05-26",
+      "updated": "2023-05-27 16:20:29",
+      "section": "Books",
+      "subsection": "",
+      "nytdsection": "books",
+      "adx_keywords": "Books and Literature;internal-open-access;genre-books-thriller;genre-books-mystery;genre-books-audiobooks;genre-books-historical-fiction;genre-books-science-fiction;genre-books-romance",
+      "column": null,
+      "byline": "",
+      "type": "Interactive",
+      "title": "Summer Books 2023",
+      "abstract": "Here are 47 literary escapes to take this season. Just add sand, sunscreen and a hot afternoon.",
+      "des_facet": [
+        "Books and Literature",
+        "internal-open-access",
+        "genre-books-thriller",
+        "genre-books-mystery",
+        "genre-books-audiobooks",
+        "genre-books-historical-fiction",
+        "genre-books-science-fiction",
+        "genre-books-romance"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Adolfo Reda\u00f1o",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/06/04/books/review/04SummerReading-COVER/04SummerReading-COVER-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/06/04/books/review/04SummerReading-COVER/04SummerReading-COVER-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/06/04/books/review/04SummerReading-COVER/04SummerReading-COVER-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8fb3b1af-d08b-528d-b1f3-076d93ae69a9",
+      "url": "https://www.nytimes.com/2023/05/27/opinion/english-humanities-ai.html",
+      "id": 100000008926251,
+      "asset_id": 100000008926251,
+      "source": "New York Times",
+      "published_date": "2023-05-27",
+      "updated": "2023-05-28 11:55:17",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Humanities;Artificial Intelligence;English Language;Philosophy;Books and Literature",
+      "column": null,
+      "byline": "By Maureen Dowd",
+      "type": "Article",
+      "title": "Don\u2019t Kill \u2018Frankenstein\u2019 With Real Frankensteins at Large",
+      "abstract": "As A.I. grows, this is no time to discard the humanities.",
+      "des_facet": [
+        "Humanities",
+        "Artificial Intelligence",
+        "English Language",
+        "Philosophy",
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lion Books, 1953/Carl H. Pforzheimer Collection of Shelley and His Circle, via The New York Public Library",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/27/opinion/27Dowd-copy/27Dowd-copy-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/27/opinion/27Dowd-copy/27Dowd-copy-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/27/opinion/27Dowd-copy/27Dowd-copy-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f369de14-06de-5d93-9d82-d50644b0b29b",
+      "url": "https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html",
+      "id": 100000008925878,
+      "asset_id": 100000008925878,
+      "source": "New York Times",
+      "published_date": "2023-05-27",
+      "updated": "2023-05-29 00:26:54",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Legal Profession;Artificial Intelligence;ChatGPT;Rumors and Misinformation;Suits and Litigation (Civil);internal-sub-only-except-search;Avianca;Manhattan (NYC)",
+      "column": null,
+      "byline": "By Benjamin Weiser",
+      "type": "Article",
+      "title": "Here\u2019s What Happens When Your Lawyer Uses ChatGPT",
+      "abstract": "A lawyer representing a man who sued an airline relied on artificial intelligence to help prepare a court filing. It did not go well.",
+      "des_facet": [
+        "Legal Profession",
+        "Artificial Intelligence",
+        "ChatGPT",
+        "Rumors and Misinformation",
+        "Suits and Litigation (Civil)",
+        "internal-sub-only-except-search"
+      ],
+      "org_facet": [
+        "Avianca"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Manhattan (NYC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As an Avianca flight approached Kennedy International Airport in New York, a serving cart collision began a legal saga, prompting the question: Is artificial intelligence so smart?",
+          "copyright": "Nicolas Economou/NurPhoto, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/lens/28airline-suit1/28airline-suit1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/lens/28airline-suit1/28airline-suit1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/lens/28airline-suit1/28airline-suit1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/24df8be2-7471-5f0a-8bc7-267de7409f4d",
+      "url": "https://www.nytimes.com/2023/05/28/us/politics/trump-republican-presidential-candidates.html",
+      "id": 100000008903266,
+      "asset_id": 100000008903266,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-28 23:50:39",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;DeSantis, Ron;Trump, Donald J;Scott, Timothy Eugene;Pence, Mike;Republican Party",
+      "column": null,
+      "byline": "By Shane Goldmacher, Jonathan Swan and Maggie Haberman",
+      "type": "Article",
+      "title": "Trump Looks Like He Will Get the 2024 Crowd He Wants",
+      "abstract": "Ron DeSantis entered the presidential race last week along with Tim Scott, with others to follow. For the former president, the more candidates the better.",
+      "des_facet": [
+        "Presidential Election of 2024"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "DeSantis, Ron",
+        "Trump, Donald J",
+        "Scott, Timothy Eugene",
+        "Pence, Mike"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald Trump has welcomed entrants to the presidential race.",
+          "copyright": "Christopher Lee for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28pol-stateoftherace-tkqj/28pol-stateoftherace-tkqj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28pol-stateoftherace-tkqj/28pol-stateoftherace-tkqj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28pol-stateoftherace-tkqj/28pol-stateoftherace-tkqj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/747d1d42-2a1e-55e8-adbe-1f59af18b7fd",
+      "url": "https://www.nytimes.com/2023/05/28/arts/television/succession-finale.html",
+      "id": 100000008919800,
+      "asset_id": 100000008919800,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-29 00:08:08",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Television",
+      "column": null,
+      "byline": "By Alexis Soloski",
+      "type": "Article",
+      "title": "\u2018Succession\u2019 Is Over. Why Did We Care?",
+      "abstract": "For five years, the series and the question of who would end up in charge captivated a chatty swath of the TV audience. But did anyone really win in the end?",
+      "des_facet": [
+        "Television"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matthew Macfadyen and Sarah Snook in the \u201cSuccession\u201d series finale.",
+          "copyright": "HBO",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/arts/28succession-1/28succession-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/arts/28succession-1/28succession-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/arts/28succession-1/28succession-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8d6cd499-56b3-5823-b37e-84f1bef1acd6",
+      "url": "https://www.nytimes.com/2023/05/26/arts/television/succession-finale.html",
+      "id": 100000008918827,
+      "asset_id": 100000008918827,
+      "source": "New York Times",
+      "published_date": "2023-05-26",
+      "updated": "2023-05-27 23:45:48",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Television",
+      "column": null,
+      "byline": "By James Poniewozik",
+      "type": "Article",
+      "title": "In \u2018Succession,\u2019 the Very Rich Are Very, Very Different",
+      "abstract": "The HBO drama, which ends on Sunday, updates past rich-people soaps like \u201cDallas.\u201d But unlike those series, it argues that the problems of the hyper-wealthy inevitably become ours too.",
+      "des_facet": [
+        "Television"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The empire Logan Roy (Brian Cox, left, with Matthew Macfadyen) amassed in \u201cSuccession\u201d dwarfs past TV fortunes and could have more malign effects on the larger world. ",
+          "copyright": "David M. Russell/HBO",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/multimedia/26succession-notebook2-hbzc/26succession-notebook2-hbzc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/multimedia/26succession-notebook2-hbzc/26succession-notebook2-hbzc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/multimedia/26succession-notebook2-hbzc/26succession-notebook2-hbzc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a6308516-77fa-5075-9d1d-c2ccfe136781",
+      "url": "https://www.nytimes.com/2023/05/29/us/politics/debt-ceiling-economy.html",
+      "id": 100000008925724,
+      "asset_id": 100000008925724,
+      "source": "New York Times",
+      "published_date": "2023-05-29",
+      "updated": "2023-05-29 08:07:59",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Economy;United States Politics and Government;Federal Budget (US);Inflation (Economics);National Debt (US);Biden, Joseph R Jr;McCarthy, Kevin (1965- );Harris, Ben (1977- )",
+      "column": null,
+      "byline": "By Jim Tankersley",
+      "type": "Article",
+      "title": "Why Spending Cuts Likely Won\u2019t Shake the Economy",
+      "abstract": "With low unemployment and above-trend inflation, the economy is well positioned to absorb the modest budget cuts that President Biden and Republicans negotiated.",
+      "des_facet": [
+        "United States Economy",
+        "United States Politics and Government",
+        "Federal Budget (US)",
+        "Inflation (Economics)",
+        "National Debt (US)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "McCarthy, Kevin (1965- )",
+        "Harris, Ben (1977- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some economists say the economy could use a mild dose of fiscal austerity right now to help lower a persistently high inflation rate.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/multimedia/00dc-debt-econ-01-gbtq/00dc-debt-econ-01-gbtq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/multimedia/00dc-debt-econ-01-gbtq/00dc-debt-econ-01-gbtq-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/multimedia/00dc-debt-econ-01-gbtq/00dc-debt-econ-01-gbtq-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9d5d8353-1cf8-5417-aeb7-a2f0427cf20b",
+      "url": "https://www.nytimes.com/2023/05/28/opinion/frenemies-relationships-health.html",
+      "id": 100000008916597,
+      "asset_id": 100000008916597,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-29 08:03:24",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Friendship;Workplace Environment;Mentors;internal-sub-only",
+      "column": null,
+      "byline": "By Adam Grant",
+      "type": "Article",
+      "title": "Your Most Ambivalent Relationships Are the Most Toxic",
+      "abstract": "Science shows that seesaw relationships can be more damaging than those that are purely negative.",
+      "des_facet": [
+        "Friendship",
+        "Workplace Environment",
+        "Mentors",
+        "internal-sub-only"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6115af5c-181d-5794-8af7-48de86981e57",
+      "url": "https://www.nytimes.com/2023/05/25/business/geena-davis-hollywood-sexism-gender.html",
+      "id": 100000008814071,
+      "asset_id": 100000008814071,
+      "source": "New York Times",
+      "published_date": "2023-05-25",
+      "updated": "2023-05-28 17:26:54",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Discrimination;Movies;Women and Girls;Television;Content Type: Personal Profile;Actors and Actresses;Research;Davis, Geena;Davis, Geena, Institute on Gender in Media",
+      "column": null,
+      "byline": "By Chris Colin",
+      "type": "Article",
+      "title": "How Sexist Is Hollywood? Check Out Geena Davis\u2019s Spreadsheet",
+      "abstract": "When it comes to quantifying bias in popular entertainment, the Academy Award winner\u2019s in a league of her own.",
+      "des_facet": [
+        "Discrimination",
+        "Movies",
+        "Women and Girls",
+        "Television",
+        "Content Type: Personal Profile",
+        "Actors and Actresses",
+        "Research"
+      ],
+      "org_facet": [
+        "Davis, Geena, Institute on Gender in Media"
+      ],
+      "per_facet": [
+        "Davis, Geena"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Next year will mark two decades since the Academy-Award winning actor created the Geena Davis Institute on Gender in Media.",
+          "copyright": "Magdalena Wosinska for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/02/multimedia/00transforming-hollywood-geena-davis-01-hcmz/00transforming-hollywood-geena-davis-01-hcmz-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/02/multimedia/00transforming-hollywood-geena-davis-01-hcmz/00transforming-hollywood-geena-davis-01-hcmz-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/02/multimedia/00transforming-hollywood-geena-davis-01-hcmz/00transforming-hollywood-geena-davis-01-hcmz-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/71f59cf4-2235-58ad-8388-95d3f58cd86b",
+      "url": "https://www.nytimes.com/2023/05/29/opinion/inflation-groceries-pricing-walmart.html",
+      "id": 100000008888323,
+      "asset_id": 100000008888323,
+      "source": "New York Times",
+      "published_date": "2023-05-29",
+      "updated": "2023-05-29 05:01:06",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Food;Supermarkets and Grocery Stores;Antitrust Laws and Competition Issues;Innovation;Shopping and Retail;Inflation (Economics);Small Business;United States Economy;Regulation and Deregulation of Industry",
+      "column": null,
+      "byline": "By Stacy Mitchell",
+      "type": "Article",
+      "title": "The Real Reason Your Groceries Are Getting So Expensive",
+      "abstract": "Grocery-retailer consolidation is damaging our food system, stifling innovation and making everything more expensive.",
+      "des_facet": [
+        "Food",
+        "Supermarkets and Grocery Stores",
+        "Antitrust Laws and Competition Issues",
+        "Innovation",
+        "Shopping and Retail",
+        "Inflation (Economics)",
+        "Small Business",
+        "United States Economy",
+        "Regulation and Deregulation of Industry"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Zak Tebbal",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/30/opinion/29Mitchell/29Mitchell-thumbStandard-v2.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/30/opinion/29Mitchell/29Mitchell-mediumThreeByTwo210-v2.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/30/opinion/29Mitchell/29Mitchell-mediumThreeByTwo440-v2.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/756df33a-334d-5925-a959-6ef5b459adc4",
+      "url": "https://www.nytimes.com/2023/05/28/opinion/artificial-intelligence-thinking-minds-concentration.html",
+      "id": 100000008918258,
+      "asset_id": 100000008918258,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-28 15:01:40",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Artificial Intelligence;Computers and the Internet;Colleges and Universities;Language and Languages;ChatGPT;E-Mail",
+      "column": null,
+      "byline": "By Ezra Klein",
+      "type": "Article",
+      "title": "Beyond the \u2018Matrix\u2019 Theory of the Mind",
+      "abstract": "To make good on its promise, artificial intelligence needs to deepen human intelligence.",
+      "des_facet": [
+        "Artificial Intelligence",
+        "Computers and the Internet",
+        "Colleges and Universities",
+        "Language and Languages",
+        "ChatGPT",
+        "E-Mail"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Anderson/Magnum Photos",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/30/opinion/28klein-01/28klein-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/30/opinion/28klein-01/28klein-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/30/opinion/28klein-01/28klein-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/35a16c93-a13e-5bdb-bdd9-0c64c0306d15",
+      "url": "https://www.nytimes.com/2023/05/26/realestate/little-ram-oyster-long-island.html",
+      "id": 100000008888077,
+      "asset_id": 100000008888077,
+      "source": "New York Times",
+      "published_date": "2023-05-26",
+      "updated": "2023-05-27 08:59:56",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Oysters;Fish Farming;Real Estate (Commercial);Small Business;Content Type: Personal Profile;Bassett, Stefanie (1980- );Peeples, Elizabeth (1980- );Cornelius & Little Ram Oyster Co LLC;Little Ram Island (NY);Shelter Island (NY);Southold (NY);North Fork (NY);Long Island (NY);Suffolk County (NY)",
+      "column": null,
+      "byline": "By Heather Senison",
+      "type": "Article",
+      "title": "They Knew Little About Oysters. Now They Have a Farm With 2 Million.",
+      "abstract": "Stefanie Bassett and Elizabeth Peeples left their city lives behind to raise mollusks.",
+      "des_facet": [
+        "Oysters",
+        "Fish Farming",
+        "Real Estate (Commercial)",
+        "Small Business",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Cornelius & Little Ram Oyster Co LLC"
+      ],
+      "per_facet": [
+        "Bassett, Stefanie (1980- )",
+        "Peeples, Elizabeth (1980- )"
+      ],
+      "geo_facet": [
+        "Little Ram Island (NY)",
+        "Shelter Island (NY)",
+        "Southold (NY)",
+        "North Fork (NY)",
+        "Long Island (NY)",
+        "Suffolk County (NY)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2b932be5-8758-58f4-9e76-d7590ed799ff",
+      "url": "https://www.nytimes.com/2023/05/26/well/live/day-drinking.html",
+      "id": 100000008922017,
+      "asset_id": 100000008922017,
+      "source": "New York Times",
+      "published_date": "2023-05-26",
+      "updated": "2023-05-26 13:49:01",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Summer (Season);Alcohol Abuse;Dehydration;Heat and Heat Waves;Alcoholic Beverages",
+      "column": null,
+      "byline": "By Dani Blum",
+      "type": "Article",
+      "title": "Why Does Day Drinking Feel Different?",
+      "abstract": "A buzz in the sun can hit harder than dinnertime drinks. Experts shed light on the science.",
+      "des_facet": [
+        "Summer (Season)",
+        "Alcohol Abuse",
+        "Dehydration",
+        "Heat and Heat Waves",
+        "Alcoholic Beverages"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Celeste Noche for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/24/multimedia/WELL-DAY-DRINKING1-whlf/WELL-DAY-DRINKING1-whlf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/24/multimedia/WELL-DAY-DRINKING1-whlf/WELL-DAY-DRINKING1-whlf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/24/multimedia/WELL-DAY-DRINKING1-whlf/WELL-DAY-DRINKING1-whlf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/addb631b-7d4c-5e10-8776-7822a43ec435",
+      "url": "https://www.nytimes.com/2023/05/28/health/pregnancy-childbirth-deaths.html",
+      "id": 100000008865050,
+      "asset_id": 100000008865050,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-28 13:36:21",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Maternal Mortality;Pregnancy and Childbirth;Deaths (Fatalities);Black People;Native Americans;Heart;Blood Pressure;Hypertension;Stroke;Preeclampsia;Suicides and Suicide Attempts;Depression (Mental);Mental Health and Disorders;Anxiety and Stress;Research;your-feed-science;Centers for Disease Control and Prevention;United States",
+      "column": null,
+      "byline": "By Roni Caryn Rabin",
+      "type": "Article",
+      "title": "Maternity\u2019s Most Dangerous Time: After New Mothers Come Home",
+      "abstract": "Recent research shows that most pregnancy-related deaths occur in the year after a baby is born. The discovery is changing how doctors care for new mothers.",
+      "des_facet": [
+        "Maternal Mortality",
+        "Pregnancy and Childbirth",
+        "Deaths (Fatalities)",
+        "Black People",
+        "Native Americans",
+        "Heart",
+        "Blood Pressure",
+        "Hypertension",
+        "Stroke",
+        "Preeclampsia",
+        "Suicides and Suicide Attempts",
+        "Depression (Mental)",
+        "Mental Health and Disorders",
+        "Anxiety and Stress",
+        "Research",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aryana Jacobs of Washington, D.C., developed life-threatening high blood pressure after her baby was born. \u201cI wish every new mother was sent home with a box of chocolates and a blood pressure cuff,\u201d she said.",
+          "copyright": "Shuran Huang for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/03/multimedia/00postpartum-01-qwjp/00postpartum-01-qwjp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/03/multimedia/00postpartum-01-qwjp/00postpartum-01-qwjp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/03/multimedia/00postpartum-01-qwjp/00postpartum-01-qwjp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d2855923-f8dc-5bbb-b085-aea81e7aa788",
+      "url": "https://www.nytimes.com/2023/05/28/opinion/gop-masculinity-twitter-hawley.html",
+      "id": 100000008925793,
+      "asset_id": 100000008925793,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-28 22:46:21",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Men and Boys;Right-Wing Extremism and Alt-Right;Conservatism (US Politics);Hawley, Josh D (1979- );Kipling, Rudyard",
+      "column": null,
+      "byline": "By David French",
+      "type": "Article",
+      "title": "The Right Is All Wrong About Masculinity",
+      "abstract": "Shrieking on Twitter is not a masculine virtue.",
+      "des_facet": [
+        "Men and Boys",
+        "Right-Wing Extremism and Alt-Right",
+        "Conservatism (US Politics)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Hawley, Josh D (1979- )",
+        "Kipling, Rudyard"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Josh Hawley gestures toward a crowd of Donald Trump supporters outside the U.S. Capitol on Jan. 6, 2021.",
+          "copyright": "Francis Chung/Politico, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/30/opinion/28French/28French-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/30/opinion/28French/28French-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/30/opinion/28French/28French-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/bcec4b6d-17f8-5ba9-810d-17d67f92bc5a",
+      "url": "https://www.nytimes.com/2023/05/28/world/europe/andrei-medvedev-wagner-russia-norway-ukraine.html",
+      "id": 100000008919556,
+      "asset_id": 100000008919556,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-29 11:20:34",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);International Relations;Mercenaries and Private Military Contractors;Asylum, Right of;War Crimes, Genocide and Crimes Against Humanity;Defectors (Political);Desertion (Military);Medvedev, Andrei (1996- );Wagner Group;Norway;Ukraine;Russia;Europe",
+      "column": null,
+      "byline": "By Anatoly Kurmanaev and Henrik Pryser Libell",
+      "type": "Article",
+      "title": "A Russian Deserter\u2019s Flight to Norway Presents a Fraught Dilemma for His Host",
+      "abstract": "Andrei Medvedev fought with Russia\u2019s Wagner mercenaries in Ukraine, then requested asylum in Norway. The authorities there must now weigh his plea against solidarity with Ukraine.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "International Relations",
+        "Mercenaries and Private Military Contractors",
+        "Asylum, Right of",
+        "War Crimes, Genocide and Crimes Against Humanity",
+        "Defectors (Political)",
+        "Desertion (Military)"
+      ],
+      "org_facet": [
+        "Wagner Group"
+      ],
+      "per_facet": [
+        "Medvedev, Andrei (1996- )"
+      ],
+      "geo_facet": [
+        "Norway",
+        "Ukraine",
+        "Russia",
+        "Europe"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Andrei Medvedev, who fought with Russia\u2019s Wagner mercenary group, is seeking asylum in Norway, while providing information on Wagner\u2019s fight in Ukraine.",
+          "copyright": "Andrea Gjestvang for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/25/multimedia/25russia-defector-01-zpkm/25russia-defector-01-zpkm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/25/multimedia/25russia-defector-01-zpkm/25russia-defector-01-zpkm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/25/multimedia/25russia-defector-01-zpkm/25russia-defector-01-zpkm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/db0169df-1a5e-5692-b19f-4bd57dccb74f",
+      "url": "https://www.nytimes.com/2023/05/27/world/europe/russia-drone-attack-kyiv.html",
+      "id": 100000008927186,
+      "asset_id": 100000008927186,
+      "source": "New York Times",
+      "published_date": "2023-05-27",
+      "updated": "2023-05-28 23:04:35",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);Defense and Military Forces;Drones (Pilotless Planes);Ukraine;Russia;Kyiv (Ukraine)",
+      "column": null,
+      "byline": "By Marc Santora and Andr\u00e9s R. Mart\u00ednez",
+      "type": "Article",
+      "title": "Kyiv Repels Its Largest Ever Drone Attack Launched by Russian Forces",
+      "abstract": "More than 40 drones were intercepted over Kyiv, where city officials said at least one person had been killed, probably by falling debris.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Defense and Military Forces",
+        "Drones (Pilotless Planes)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Ukraine",
+        "Russia",
+        "Kyiv (Ukraine)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Damage inside a building struck by debris in Kyiv on Sunday.",
+          "copyright": "Nicole Tung for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28ukraine-ledeall-hmvp/28ukraine-ledeall-hmvp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28ukraine-ledeall-hmvp/28ukraine-ledeall-hmvp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28ukraine-ledeall-hmvp/28ukraine-ledeall-hmvp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/28ee5d1e-2f75-5eaf-8063-d40fba7edfc2",
+      "url": "https://www.nytimes.com/2023/05/28/us/politics/feinstein-senate-staff.html",
+      "id": 100000008921744,
+      "asset_id": 100000008921744,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-28 14:39:30",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Feinstein, Dianne;Senate;Democratic Party;California",
+      "column": null,
+      "byline": "By Annie Karni",
+      "type": "Article",
+      "title": "Feinstein, Back in the Senate, Relies Heavily on Staff to Function",
+      "abstract": "The California Democrat is surrounded by a large retinue of aides at all times, who tell her how and when to vote, explain what is going on when she is confused, and shield her from the press and public.",
+      "des_facet": [
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Senate",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Feinstein, Dianne"
+      ],
+      "geo_facet": [
+        "California"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Dianne Feinstein, Democrat of California, has suffered a decline in health.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/multimedia/00dc-feinstein-01-zthm/00dc-feinstein-01-zthm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/multimedia/00dc-feinstein-01-zthm/00dc-feinstein-01-zthm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/26/multimedia/00dc-feinstein-01-zthm/00dc-feinstein-01-zthm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/476172a8-4a01-57b3-a69c-5b9e0deae6a7",
+      "url": "https://www.nytimes.com/2023/05/28/us/politics/biden-debt-limit-deal.html",
+      "id": 100000008927370,
+      "asset_id": 100000008927370,
+      "source": "New York Times",
+      "published_date": "2023-05-28",
+      "updated": "2023-05-29 00:22:17",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Welfare (US);United States Economy;Medicaid;National Debt (US);Federal Budget (US);Food Stamps;McCarthy, Kevin (1965- );Biden, Joseph R Jr;Democratic Party;House of Representatives;Internal Revenue Service;Republican Party;Senate",
+      "column": null,
+      "byline": "By Peter Baker",
+      "type": "Article",
+      "title": "In Pursuit of Consensus, Did Biden Find the Reasonable Middle or Give Away Too Much?",
+      "abstract": "The deal to raise the debt ceiling bolsters President Biden\u2019s argument that he is committed to bipartisanship, but it comes at the cost of rankling many in his own party.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Welfare (US)",
+        "United States Economy",
+        "Medicaid",
+        "National Debt (US)",
+        "Federal Budget (US)",
+        "Food Stamps"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "House of Representatives",
+        "Internal Revenue Service",
+        "Republican Party",
+        "Senate"
+      ],
+      "per_facet": [
+        "McCarthy, Kevin (1965- )",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Having reached an agreement with Speaker Kevin McCarthy, President Biden now must face tough questions from members of his own party.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28dc-assess-Biden2-mbgf/28dc-assess-Biden2-mbgf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28dc-assess-Biden2-mbgf/28dc-assess-Biden2-mbgf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/28/multimedia/28dc-assess-Biden2-mbgf/28dc-assess-Biden2-mbgf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

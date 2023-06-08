@@ -29,8 +29,8 @@ import requests
 
 URL_MAIN = "http://api.nytimes.com/svc/"
 URL_POPULAR = URL_MAIN + "mostpopular/v2/"
-API_KEY = { "popular": "",
-            "article": ""}
+API_KEY = { "popular": os.getenv("api_key_nyt"),
+            "article": os.getenv("api_key_nyt")}
 
 
 def get_from_file(kind, period):
@@ -57,7 +57,8 @@ def query_site(url, target, offset):
         print("You need to register for NYTimes Developer account to run this program.")
         print("See Intructor notes for information")
         return False
-    params = {"api-key": API_KEY[target], "offset": offset}
+    #params = {"api-key": API_KEY[target], "offset": offset}
+    params = {"api-key": API_KEY[target]} # NYT API no longer supports offset
     r = requests.get(url, params = params)
 
     if r.status_code == requests.codes.ok:
@@ -76,7 +77,8 @@ def get_popular(url, kind, days, section="all-sections", offset=0):
         print("kind can be only one of viewed/shared/emailed")
         return False
 
-    url += "most{0}/{1}/{2}.json".format(kind, section, days)
+    #url += "most{0}/{1}/{2}.json".format(kind, section, days)
+    url += "{0}/{1}.json".format(kind, days) # current valid API URL format
     data = query_site(url, "popular", offset)
 
     return data
@@ -87,13 +89,14 @@ def save_file(kind, period):
     # combine the data and then write all results in a file.
     data = get_popular(URL_POPULAR, "viewed", 1)
     num_results = data["num_results"]
-    full_data = []
+    # full_data = []
     with codecs.open("popular-{0}-{1}.json".format(kind, period), encoding='utf-8', mode='w') as v:
-        for offset in range(0, num_results, 20):        
-            data = get_popular(URL_POPULAR, kind, period, offset=offset)
-            full_data += data["results"]
+    #     for offset in range(0, num_results, 20):        
+    #         data = get_popular(URL_POPULAR, kind, period, offset=offset)
+    #         full_data += data["results"]
         
-        v.write(json.dumps(full_data, indent=2))
+    #     v.write(json.dumps(full_data, indent=2))
+        v.write(json.dumps(data, indent=2))
 
 
 def test():
@@ -101,8 +104,8 @@ def test():
     assert len(titles) == 20
     assert len(urls) == 30
     assert titles[2] == {'Opinion': 'Professors, We Need You!'}
-    assert urls[20] == 'http://graphics8.nytimes.com/images/2014/02/17/sports/ICEDANCE/ICEDANCE-thumbStandard.jpg'
-
+    # assert urls[20] == 'http://graphics8.nytimes.com/images/2014/02/17/sports/ICEDANCE/ICEDANCE-thumbStandard.jpg'
+    assert urls[19] == 'https://www.nytimes.com/2023/05/28/opinion/artificial-intelligence-thinking-minds-concentration.html'
 
 if __name__ == "__main__":
     test()
